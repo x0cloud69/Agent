@@ -1,0 +1,11 @@
+{
+  "use_mcp": true,
+  "mcp_server_host": "127.0.0.1",
+  "mcp_server_port": 11434,
+  "mcp_model_name": "qwen2.5:3b",
+  "model_type": "qwen3",
+  "use_ollama": true,
+  "use_huggingface": false,
+  "exa_api_key": "",
+  "exa_search_enabled": false
+}
