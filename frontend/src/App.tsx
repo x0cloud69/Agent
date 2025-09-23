@@ -52,4 +52,5 @@ const App: React.FC = () => {
   );
 };
 
+// 테스트용 주석
 export default App;
