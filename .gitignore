@@ -158,4 +158,7 @@ frontend/coverage/
 # Project specific
 result.txt
 test.txt
-env.txt 
+env.txt
+
+# FFmpeg binaries (large files - download separately)
+ffmpeg-*/ 
